@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MihirSheth25
-- 👀 I’m interested in web and app development
+- 👋 Hi, I’m Mihir Sheth
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Computer Science & Engineering at KJSCE
 
 <!---
