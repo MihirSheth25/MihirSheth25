@@ -66,7 +66,8 @@
 
 ### 📈 [Options Data Tracker](https://github.com/MihirSheth25/option-chain-analyzer)  
 A real-time web application that displays live options data faster than the National Stock Exchange website.  
-⏱️ Live updates without page refresh | 🧱 Tech Stack: Flask, JavaScript, HTML/CSS  
+⏱️ Live updates without page refresh
+🧱 Tech Stack: Flask, JavaScript, HTML/CSS
 🏆 Top-4 at **Edelweiss Hackathon**
 
 ### ❤️ [Heart Disease Analysis Dashboard](https://github.com/MihirSheth25/Tableau-heart-disease-analysis)  
