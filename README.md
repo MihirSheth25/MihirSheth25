@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mihir Sheth
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Computer Science & Engineering at KJSCE
+- 🌱 I’m currently pursuing a Master's in Computer Science at Indiana University Bloomington
 
 <!---
 MihirSheth25/MihirSheth25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
