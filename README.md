@@ -46,12 +46,17 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 📈 Options Data Tracker  
 A real-time web application that displays live options data faster than the National Stock Exchange website.  
 ⏱️ Live updates without page refresh | 🧱 Tech Stack: Flask, JavaScript, HTML/CSS  
 🏆 Top-4 at **Edelweiss Hackathon**
+
+### ❤️ Heart Disease Analysis Dashboard  
+An interactive Tableau dashboard that examines how factors such as age, gender, cholesterol levels, chest pain, and ECG readings influence heart disease risk.  
+📊 Developed using Tableau with a focus on storytelling and health analytics  
+🎓 Academic project built during engineering coursework at K.J. Somaiya College of Engineering
 
 ---
 
